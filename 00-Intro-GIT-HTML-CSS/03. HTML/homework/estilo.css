@@ -1,26 +1,25 @@
-.DivClass h1 {
-    color: rgb(0, 0, 0);
+.color {
+    color: rgb(175, 9, 9);
     letter-spacing: 10px;
     margin: auto;
 }
-
 img {
     width: 400px;
+    height: 267px;
     
 }
 #thirDiv {
-    width: 600px;
-    height: 700px;
-    background-color: rgb(200, 227, 228);
-    padding: 50px;
-    border: 3px solid rgb(175, 175, 211);
+    width: 500px;
+    height: 600px;
+    
 }
 #spanId {
+    color: azure;
     font-size: 18px;
     margin: 50px;
 }
 body {
- background-image: url(https://i.pinimg.com/originals/59/c3/37/59c337f2aa27869e33b28a2c03d9d9ef.jpg);
+ background-image: url(https://cdn.wallpapersafari.com/42/92/x1JIbB.jpg);
 
 }
 .contenedor {
