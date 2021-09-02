@@ -2,15 +2,22 @@
     color: rgb(175, 9, 9);
     letter-spacing: 10px;
     margin: auto;
+    letter-spacing: normal;
 }
 img {
     width: 400px;
     height: 267px;
-    
+    border-radius: 20px;
+    display:flex;
+    margin:auto;
+    margin-left: 13px;
+    margin-top: 20px;
 }
 #thirDiv {
     width: 500px;
     height: 600px;
+    background-color: brown;
+    border-radius: 20px;
     
 }
 #spanId {
@@ -20,6 +27,8 @@ img {
 }
 body {
  background-image: url(https://cdn.wallpapersafari.com/42/92/x1JIbB.jpg);
+ 
+
 
 }
 .contenedor {
